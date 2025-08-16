@@ -31,9 +31,8 @@ Build an **HR Analytics Dashboard** to understand employee **attrition**, workfo
 ---
 
 ## Dashboard (Interactive)
-- **View Dashboard:** [Click here to open in Tableau Public]([https://public.tableau.com/views/YOUR_DASHBOARD_LINK](https://public.tableau.com/views/HrAnalyticsboard/HRANALYTICSDASHBOARD?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))  
-- **High-Res Screenshot:**  
-  ![HR Analytics Dashboard](https://github.com/Apkaur102/Project-files/blob/main/overview_dashboard.png)
+[``]([https://github.com/Apkaur102/Hr-Analytics-Dashboard/blob/main/HR%20Data.xlsx%20-%20HR%20data.csv](https://public.tableau.com/shared/C8QG8G3ZH?:display_count=n&:origin=viz_share_link)) (View Dashboard in Tableau Public)  
+
 
 ---
 
@@ -69,20 +68,6 @@ To reduce attrition:
 - Tailor actions by **gender** where gaps appear (e.g., mentoring, flexibility, manager coaching).
 - Track changes monthly and iterate policies using the same dashboard.
 
----
-
-## How to Use This Project
-**Open in Tableau**
-1. Download [`hr analytics board.twb`](https://github.com/Apkaur102/Project-files/blob/main/hr%20analytics%20board.twb).
-2. Open with **Tableau Public Desktop (free)**.
-3. If using `.twb`, place the dataset under `data/` and relink when prompted.
-
-**Quick View**
-- Open the Tableau Public link above, or browse screenshots in [`overview_dashboard.png`](https://github.com/Apkaur102/Project-files/blob/main/overview_dashboard.png).
-
----
-
-## Repository Structure
 
 
 
