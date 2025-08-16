@@ -6,7 +6,7 @@ Build an **HR Analytics Dashboard** to understand employee **attrition**, workfo
 ---
 
 ## Dataset Used
-- [`HR Data.csv`](https://github.com/Apkaur102/Project-files/blob/main/HR%20Data.xlsx%20-%20HR%20data.csv) (anonymized HR records)  
+- [`HR Data.csv`](https://github.com/Apkaur102/Hr-Analytics-Dashboard/blob/main/HR%20Data.xlsx%20-%20HR%20data.csv) (anonymized HR records)  
 
 
 ---
