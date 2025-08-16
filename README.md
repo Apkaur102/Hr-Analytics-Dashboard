@@ -11,6 +11,8 @@ Build an **HR Analytics Dashboard** to understand employee **attrition**, workfo
 
 ---
 
+
+
 ## Questions (KPIs)
 - What is the **Employee Count, Attrition Count, Active Employees, and Attrition Rate**?
 - What is the **Average Age** of employees?
@@ -33,6 +35,7 @@ Build an **HR Analytics Dashboard** to understand employee **attrition**, workfo
 ## Dashboard
 - [`Dashboard.com`](https://public.tableau.com/shared/C8QG8G3ZH?:display_count=n&:origin=viz_share_link) (View Dashboard in Tableau Public)  
 
+<img width="1974" height="1124" alt="overview_dashboard" src="https://github.com/user-attachments/assets/bf9b92b7-088d-4a7b-ab74-d36c9e2dc509" />
 
 
 ---
