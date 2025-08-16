@@ -31,7 +31,7 @@ Build an **HR Analytics Dashboard** to understand employee **attrition**, workfo
 ---
 
 ## Dashboard (Interactive)
-[``]([https://github.com/Apkaur102/Hr-Analytics-Dashboard/blob/main/HR%20Data.xlsx%20-%20HR%20data.csv](https://public.tableau.com/shared/C8QG8G3ZH?:display_count=n&:origin=viz_share_link)) (View Dashboard in Tableau Public)  
+[`Dashboard`]([https://github.com/Apkaur102/Hr-Analytics-Dashboard/blob/main/HR%20Data.xlsx%20-%20HR%20data.csv](https://public.tableau.com/shared/C8QG8G3ZH?:display_count=n&:origin=viz_share_link)) (View Dashboard in Tableau Public)  
 
 
 ---
