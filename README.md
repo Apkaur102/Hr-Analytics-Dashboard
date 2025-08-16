@@ -30,8 +30,9 @@ Build an **HR Analytics Dashboard** to understand employee **attrition**, workfo
 
 ---
 
-## Dashboard (Interactive)
-[`Dashboard.com`]((https://public.tableau.com/shared/C8QG8G3ZH?:display_count=n&:origin=viz_share_link)) (View Dashboard in Tableau Public)  
+## Dashboard
+- [`Dashboard.com`](https://public.tableau.com/shared/C8QG8G3ZH?:display_count=n&:origin=viz_share_link) (View Dashboard in Tableau Public)  
+
 
 
 ---
